@@ -1,0 +1,12 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  formats: formats.html
+  fulltext: fulltext.html
+  getting_fulltext: getting_fulltext.html
+last_built: 2021-07-20T08:04Z
+urls:
+  reference: https://docs.ropensci.org/fulltext/reference
+  article: https://docs.ropensci.org/fulltext/articles
+

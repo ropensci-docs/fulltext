@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3bdfb86a09183fe901572d579c5d85b69e418f5d",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-06-11 23:45:08",
+    "files": 1,
+    "merge": false,
+    "message": "drop windows devel and macos release from gh actions\n"
+  },
+  "remote": "https://github.com/ropensci/fulltext",
+  "pkg": "fulltext"
+}
